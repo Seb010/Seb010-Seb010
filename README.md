@@ -1,42 +1,46 @@
-# Hi there 👋, I'm Sebastian
+# Hi, I'm Sebastian Mills 👋
 
-I'm a final year Computer Science student passionate about **full-stack development**, **AI-powered solutions**, and creating practical applications that solve real problems.  
-
-I enjoy building projects that combine **web development**, **data processing**, and **user-focused design**, and I'm always exploring new technologies and improving my skills.
+I’m a final-year Computer Science student passionate about building full-stack applications, AI-powered solutions, and practical tools for real-world problems. I enjoy creating projects that combine **security, interactivity, and analytics**.  
 
 ---
 
-## 🚀 Projects
+## 🔭 Current Work
+
+- **LEVRA AI Interview Answer Evaluator** – A web application using **HTML, TailwindCSS, React, and Flask** to evaluate soft skills answers in real-time. The app detects key skills in responses, scores answers, and provides AI-driven feedback.  
+- **Personalised Training Plan App (In Progress)** – Developing an app that creates personalised training plans and adjusts them weekly to prevent injuries.  
+
+---
+
+## 🌱 Projects & Repositories
+
+Here are some of my public and private projects:
 
 ### Public Repositories
-- **[LEVRA AI Interview Answer Evaluator](https://github.com/Seb010/LEVRA-AI-Interview-Answer-Evaluator)** – AI-powered tool that evaluates scenario-based soft skill responses using NLP and gives real-time feedback. Built with React + Flask.  
-- **[Secure Notes Tracker](https://github.com/Seb010/Notes)** – Full-stack secure notes app with Spring Boot, React, JWT authentication, and user/admin roles.  
-- **[Python Maths Quiz](https://github.com/Seb010/Maths-Quiz)** – Tkinter-based quiz app to test knowledge on quadratic formulas with leaderboard ranking.  
-- **[Java Swing Banking App](https://github.com/Seb010/Banking-App)** – Coursework project simulating account management, deposits, and transaction viewing with a clean GUI.  
-- **[Password Strength Checker](https://github.com/Seb010/Password-Checker)** – Python tool for scoring and analyzing password strength using character checks and scoring rules.  
+- **Secure Notes Tracker (Spring Boot + React)** – Secure note-taking app with **OAuth2 login, JWT authentication, and role-based access (user/admin)**. Features a RESTful API backend and React frontend.  
+- **Python Maths Quiz (Tkinter)** – Desktop quiz app testing knowledge on the quadratic formula, including **leaderboards and scoring**.  
+- **Java Swing Bank App** – University coursework project simulating banking operations with account management, deposits, and transaction viewing.  
+- **Password Strength Checker (Python)** – A terminal program that evaluates password strength based on characters, digits, symbols, and sequences.  
+- **LEVRA AI Soft Skills Evaluator (Frontend)** – Interactive HTML/JS frontend for scenario-based soft skill evaluation.  
 
 ### Private Repositories
-- **Website Portfolio** – My personal website showcasing projects and skills. *(Private for now)*  
-- **Customer Service Portal (Placement)** – Full-stack application built during my placement, enabling customer service teams to manage queries efficiently. *(Private for now)*  
+- **Website Portfolio** – My personal portfolio showcasing projects and skills. *(Private; live site: [sebastian-mills.vercel.app](https://sebastian-mills.vercel.app))*  
+- **Customer Service Portal (Placement)** – Full-stack application built during my placement for customer service management. *(Private for now)*  
 
 ---
 
-## 💡 Current Work
-I’m currently developing a **running app** that creates **personalized training plans** and **adjusts plans weekly** to prevent injuries, combining fitness science with software development to deliver smarter, safer training.
+## 💻 Skills & Technologies
+
+- **Languages:** Java, Python, JavaScript, SQL  
+- **Frameworks & Tools:** Spring Boot, React, Flask, TailwindCSS, Tkinter, JPA, REST API  
+- **Concepts:** Security & Authentication, JWT, OAuth2, Role-Based Access, CRUD Operations, AI/NLP for soft skills evaluation  
 
 ---
 
-## 🛠️ Skills
-- **Languages:** Java, Python, JavaScript (ES6+), SQL  
-- **Frameworks & Tools:** Spring Boot, React, Flask, TailwindCSS, Tkinter  
-- **Concepts:** REST APIs, JWT Authentication, OAuth2, AI/NLP basics, Responsive Web Design  
+## 📫 Get in Touch
+
+- Personal website: [https://sebastian-mills.vercel.app](https://sebastian-mills.vercel.app)  
+- Email: seb.mills@example.com  
 
 ---
 
-## 📫 Connect with me
-- GitHub: [https://github.com/Seb010](https://github.com/Seb010)  
-- Email: seb@example.com  
-
----
-
-Thanks for visiting my GitHub profile! 🌟
+*I’m always looking to learn and collaborate on projects that combine software engineering with real-world impact.*
