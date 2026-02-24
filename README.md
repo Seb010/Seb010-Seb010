@@ -19,7 +19,7 @@ I’m a final-year Computer Science student passionate about building full-stack
 
 ### Desktop & Tools
 * [**Python Maths Quiz (Tkinter)**](https://github.com/Seb010/Python-Maths-Quiz) – A desktop application for testing quadratic formula knowledge, featuring local **leaderboards and scoring systems**.  
-* [**Java Swing Bank App**](https://github.com/Seb010/Banking-Java-Swing) – A simulation of core banking operations, including account management, deposits, and transaction history.  
+* [**Java Swing Bank App**](https://github.com/Seb010/BankApp---UniProject) – A simulation of core banking operations, including account management, deposits, and transaction history.  
 * [**Password Strength Checker (Python)**](https://github.com/Seb010/Password-Strength-Checker) – A terminal-based security tool that evaluates password entropy based on character sets and sequences.  
 
 ---
