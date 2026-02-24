@@ -4,48 +4,39 @@ I’m a final-year Computer Science student passionate about building full-stack
 
 ---
 
-## 🔭 Current Work
+## 🔭 Currently Building
 
-- **LEVRA AI Interview Answer Evaluator** – A web application using **HTML, TailwindCSS, React, and Flask** to evaluate soft skills answers in real-time. The app detects key skills in responses, scores answers, and provides AI-driven feedback.  
-- **Personalised Training Plan App (In Progress)** – Developing an app that creates personalised training plans and adjusts them weekly to prevent injuries.  
+* **Final Year Project (Agile Dashboard)** – A full-stack web application (React, Spring Boot, MySQL) designed for agile teams to manage projects with real-time monitoring and team alignment.
+* **Personalised Training Plan App** – An automated fitness tool that generates custom training schedules and adjusts them weekly to prevent injuries.  
 
 ---
 
 ## 🌱 Projects & Repositories
 
-### Public Repositories
-- [**Secure Notes Tracker (Spring Boot + React)**](https://github.com/Seb010/Notes) – Secure note-taking app with **OAuth2 login, JWT authentication, and role-based access (user/admin)**. RESTful API backend and React frontend.  
-- [**Python Maths Quiz (Tkinter)**](https://github.com/Seb010/Python-Maths-Quiz) – Desktop quiz app testing knowledge on the quadratic formula, including **leaderboards and scoring**.  
-- [**Java Swing Bank App**](https://github.com/Seb010/Banking-Java-Swing) – University coursework project simulating banking operations with account management, deposits, and transaction viewing.  
-- [**Password Strength Checker (Python)**](https://github.com/Seb010/Password-Strength-Checker) – Terminal program that evaluates password strength based on characters, digits, symbols, and sequences.  
-- [**LEVRA AI Soft Skills Evaluator (Frontend)**](https://github.com/Seb010/LEVRA-AI-Interview-Answer-Evaluator) – Interactive HTML/JS frontend for scenario-based soft skill evaluation.  
+### Web & Security
+* [**Secure Notes Tracker (Spring Boot + React)**](https://github.com/Seb010/Notes) – A secure note-taking platform featuring **OAuth2 login, JWT authentication, and Role-Based Access Control (RBAC)**.
+* [**LEVRA AI Soft Skills Evaluator**](https://github.com/Seb010/LEVRA-AI-Interview-Answer-Evaluator) – Interactive HTML/JS frontend for scenario-based soft skill evaluation using AI/NLP concepts.  
 
-### Private Repositories
-- **Website Portfolio** – My personal portfolio showcasing projects and skills. *(Private; live site: [sebastian-mills.vercel.app](https://sebastian-mills.vercel.app))*  
-- **Customer Service Portal (Placement)** – Full-stack application built during my placement for customer service management. *(Private for now)*  
+### Desktop & Tools
+* [**Python Maths Quiz (Tkinter)**](https://github.com/Seb010/Python-Maths-Quiz) – A desktop application for testing quadratic formula knowledge, featuring local **leaderboards and scoring systems**.  
+* [**Java Swing Bank App**](https://github.com/Seb010/Banking-Java-Swing) – A simulation of core banking operations, including account management, deposits, and transaction history.  
+* [**Password Strength Checker (Python)**](https://github.com/Seb010/Password-Strength-Checker) – A terminal-based security tool that evaluates password entropy based on character sets and sequences.  
 
 ---
 
 ## 💻 Skills & Technologies
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-- **Concepts:** Security & Authentication, JWT, OAuth2, Role-Based Access, CRUD Operations, AI/NLP for soft skills evaluation  
+| **Backend** | **Frontend** | **Other** |
+| :--- | :--- | :--- |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
 ---
 
 ## 📫 Get in Touch
 
-- Personal website: [https://sebastian-mills.vercel.app](https://sebastian-mills.vercel.app)  
-- Email: seb.mills@example.com  
+* **Portfolio:** [sebastian-mills.vercel.app](https://sebastian-mills.vercel.app)
+* **Email:** [sebastianmills111@outlook.com](mailto:sebastianmills111@outlook.com)
+* **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/your-profile-here)
 
 ---
 
