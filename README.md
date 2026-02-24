@@ -18,7 +18,7 @@ I’m a final-year Computer Science student passionate about building full-stack
 * [**LEVRA AI Soft Skills Evaluator**](https://github.com/Seb010/LEVRA-AI-Interview-Answer-Evaluator) – Interactive HTML/JS frontend for scenario-based soft skill evaluation using AI/NLP concepts.  
 
 ### Desktop & Tools
-* [**Python Maths Quiz (Tkinter)**](https://github.com/Seb010/Python-Maths-Quiz) – A desktop application for testing quadratic formula knowledge, featuring local **leaderboards and scoring systems**.  
+* [**Python Maths Quiz (Tkinter)**](https://github.com/Seb010/Maths-Quiz) – A desktop application for testing quadratic formula knowledge, featuring local **leaderboards and scoring systems**.  
 * [**Java Swing Bank App**](https://github.com/Seb010/BankApp---UniProject) – A simulation of core banking operations, including account management, deposits, and transaction history.  
 * [**Password Strength Checker (Python)**](https://github.com/Seb010/Password-Strength-Checker) – A terminal-based security tool that evaluates password entropy based on character sets and sequences.  
 
