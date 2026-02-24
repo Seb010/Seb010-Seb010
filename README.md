@@ -36,7 +36,7 @@ I’m a final-year Computer Science student passionate about building full-stack
 
 * **Portfolio:** [sebastian-mills.vercel.app](https://sebastian-mills.vercel.app)
 * **Email:** [sebastianmills111@outlook.com](mailto:sebastianmills111@outlook.com)
-* **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/your-profile-here)
+* **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/sebastian-mills/)
 
 ---
 
